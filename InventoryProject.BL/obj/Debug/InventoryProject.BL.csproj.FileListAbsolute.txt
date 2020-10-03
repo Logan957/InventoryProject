@@ -1,0 +1,15 @@
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\InventoryProject.BL.dll.config
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\InventoryProject.BL.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\InventoryProject.BL.pdb
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\EntityFramework.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\EntityFramework.xml
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\obj\Debug\InventoryProject.BL.csprojAssemblyReference.cache
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\obj\Debug\InventoryProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\obj\Debug\InventoryProject.BL.csproj.CopyComplete
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\obj\Debug\InventoryProject.BL.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\obj\Debug\InventoryProject.BL.pdb
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\nunit.framework.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\nunit.framework.pdb
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.BL\bin\Debug\nunit.framework.xml

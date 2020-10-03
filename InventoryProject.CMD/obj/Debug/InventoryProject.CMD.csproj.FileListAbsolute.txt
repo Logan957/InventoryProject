@@ -1,0 +1,15 @@
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\InventoryProject.CMD.exe.config
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\InventoryProject.CMD.exe
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\InventoryProject.CMD.pdb
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\InventoryProject.BL.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\EntityFramework.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\InventoryProject.BL.pdb
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\InventoryProject.BL.dll.config
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\EntityFramework.xml
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\obj\Debug\InventoryProject.CMD.csprojAssemblyReference.cache
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\obj\Debug\InventoryProject.CMD.csproj.CoreCompileInputs.cache
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\obj\Debug\InventoryProject.CMD.csproj.CopyComplete
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\obj\Debug\InventoryProject.CMD.exe
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\obj\Debug\InventoryProject.CMD.pdb
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79509\source\repos\InventoryProject\InventoryProject.CMD\bin\Debug\EntityFramework.SqlServer.xml
